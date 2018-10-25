@@ -1,2 +1,2 @@
 # ML_practice-codes
-Personal Repo for machine learning touch ups. 
+Personal Repo for machine learning practice.
